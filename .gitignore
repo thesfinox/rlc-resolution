@@ -1,0 +1,6 @@
+# Do not include objects and executable
+
+*.o
+rlc-resolution
+src/*.o
+src/rlc-resolution
