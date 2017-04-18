@@ -1,6 +1,6 @@
 all:
 	cd src; make
-	cd src; cp rlc-resolution ../
+	cd src; cp rlcsolve ../
 	
 install:
 	cd src; make install

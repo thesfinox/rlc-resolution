@@ -8,7 +8,7 @@ SOURCES= Complex.cpp Componente.cpp Resistenza.cpp Condensatore.cpp \
 	 CircuitoSerie.cpp CircuitoParallelo.cpp  UIManager.cpp \
 	 MainClass.cpp
 OBJECTS=$(SOURCES:.cpp=.o)
-EXECUTABLE=rlc-resolution
+EXECUTABLE=rlcsolve
 
 #makefile
 all: $(SOURCES) $(EXECUTABLE)
@@ -20,7 +20,7 @@ $(EXECUTABLE): $(OBJECTS)
 	$(CC) $(CFLAGS) $< -o $@
 
 install:
-	cp $(EXECUTABLE) /usr/bin/
+	cp $(EXECUTABLE) /usr/local/bin/
 
 clean:
 	rm -rf *.o

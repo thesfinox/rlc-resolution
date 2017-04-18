@@ -23,13 +23,14 @@ sfasamento).
 anche questo README
 2. Digitare `make` nel terminale ed attendere la fine della compilazione 
 (deve essere installato *g++*)
-3. Digitare `./rlc-resolution` per avviare il programma
+3. Digitare `./rlcsolve` per avviare il programma
 
 Eventualmente:
 * Digitare `make clean` per eliminare i file *.o generati dalla 
 compilazione dei file sorgente.
 * Digitare `sudo make install` per copiare l'eseguibile del programma nella 
-cartella /usr/bin/ e averlo sempre disponibile da terminale come comando.
+cartella /usr/local/bin/ e averlo sempre disponibile da terminale come 
+comando `rlcsolve`.
                         
 # ISTRUZIONI
 
