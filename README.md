@@ -1,23 +1,22 @@
-﻿![UniTO](http://www.unito.it/sites/all/themes/unitofed/img/logo.svg)
+![UniTO](http://www.unito.it/sites/all/themes/unitofed/img/logo.svg)
 
-# Esame di Tecniche di Calcolo
-## _Università degli Studi di Torino_
-### Anno Accademico 2014 - 2015
+# Esame di _Tecniche di Calcolo per la Fisica_
+# _Università degli Studi di Torino_ - Anno Accademico 2014-2015
 
-### Autori:
+## Autori:
 * Alessandra Cappati
 * Luca Gambarana
 * Riccardo Caramellino
 * Riccardo Finotello
         
-# INTRODUZIONE
+## Introduzione
 
 Il programma risolve un arbitrario circuito elettrico di tipo RLC: vengono
 restituiti in output (con la possibilità di salvare su file di testo) i
 parametri del circuito (impedenza totale, corrente circolante e suo
 sfasamento).
 
-# INSTALLAZIONE
+## Installazione
 
 1. Da terminale entrare nella cartella dei file sorgenti in cui è presente 
 anche questo README
@@ -32,7 +31,7 @@ compilazione dei file sorgente.
 cartella /usr/local/bin/ e averlo sempre disponibile da terminale come 
 comando `rlcsolve`.
                         
-# ISTRUZIONI
+## Istruzioni
 
 Il programma guida ad ogni passo l'utente nell'inserimento, consentendo di 
 non necessitare di una guida completa all'uso. Tuttavia si tenga conto 
