@@ -45,7 +45,7 @@ Potenziale [V]: | 1.45k  | SBAGLIATO
                 
 L'elenco degli identificativi delle unità di misura è:
 
-PREFISSO | SIMBOLO | Ordine di grandezza (10^n)
+PREFISSO | SIMBOLO | Ordine di grandezza (10^(n))
 ---------|---------|---------------------------
 yotta    | Y       | 24
 zetta    | Z       | 21
