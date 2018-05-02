@@ -8,7 +8,7 @@ rlcsolve:
     - make
   artifacts:
     paths:
-      - rclsolve
+      - rlcsolve
   cache:
     paths:
       - "src/*.o"
