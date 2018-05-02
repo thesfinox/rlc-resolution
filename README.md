@@ -1,5 +1,7 @@
 ![UniTO](http://www.unito.it/sites/all/themes/unitofed/img/logo.svg)
 
+[![pipeline status](https://gitlab.com/thesfinox/rlc-resolution/badges/master/pipeline.svg)](https://gitlab.com/thesfinox/rlc-resolution/commits/master)
+
 # Esame di _Tecniche di Calcolo per la Fisica_
 # _Università degli Studi di Torino_ - Anno Accademico 2014-2015
 
