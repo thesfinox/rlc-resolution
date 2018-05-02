@@ -1,0 +1,14 @@
+image: gcc
+
+rlcsolve:
+  stage: build
+  before_script: 
+    - apt update && apt -y install make 
+  script: 
+    - make
+  artifacts:
+    paths:
+      - rclsolve
+  cache:
+    paths:
+      - "src/*.o"
