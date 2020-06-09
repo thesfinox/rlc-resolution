@@ -12,8 +12,8 @@
 ## Introduction
 
 This entry was part of the academic examination "Computational Techniques
-for Physics". The software is written in Java and solves an arbitrary RC
-and RL electrical circuits and computes their transient analysis.
+for Physics". The software is written in C++ and solves an arbitrary RLC
+electrical circuits and computes their output characteristics.
         
 ## Introduzione
 
